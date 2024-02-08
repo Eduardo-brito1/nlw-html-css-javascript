@@ -1,6 +1,6 @@
 const perguntas = [
     {
-        pergunta: "Qual palavra-chave é usada para declarar uma variável em JavaScript?",
+        pergunta: "Qual palavra-chave é usada para declarar uma variável de valor fixo em JavaScript?",
         respostas: [
             "var",
             "let",
